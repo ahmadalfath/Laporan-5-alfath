@@ -15,7 +15,7 @@ body {
     width: 200px;
     height: 200px;
     object-fit: cover;
-    border: 5px solid #fff;
+    border: 5px solid rgb(156, 114, 114);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
